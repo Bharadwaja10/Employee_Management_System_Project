@@ -2,3 +2,5 @@
 Developed a GUI-based application to manage employee records and details within a company.
 
 Skills Required: Java, Swing, AWT, and MySQL. 
+
+![](java_Project_Img.png)
